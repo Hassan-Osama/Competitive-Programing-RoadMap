@@ -6,29 +6,13 @@ Welcome to the Competitive Programming Problems and Solutions repository! This r
 
 1. [Introduction](#introduction)
 2. [How to Use](#how-to-use)
-3. [Problem Links](#problem-links)
-4. [How to Contribute](#how-to-contribute)
+3. [How to Contribute](#how-to-contribute)
 
 ## Introduction
 
 This repository aims to help programmers improve their problem-solving skills and prepare for competitive programming contests. Each week's solutions are organized into folders, and links to the problems are provided in a separate README file.
 
-## Weekly Solutions
 
-- [Week 1](./Week-1)
-- [Week 2](./Week2)
-- [Week 3](./Week3)
-- [Week 4](./Week4)
-- [Week 5](./Week5)
-
-## Problem Links
-
-Each week's problem links are provided in their respective README files:
-- [Week 1 Problems](./Week1/README.md)
-- [Week 2 Problems](./Week2/README.md)
-- [Week 3 Problems](./Week3/README.md)
-- [Week 4 Problems](./Week4/README.md)
-- [Week 5 Problems](./Week5/README.md)
 
 ## How to Use
 
