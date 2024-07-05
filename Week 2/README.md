@@ -1,6 +1,6 @@
-# Week 1 Problems
+# Week 2 Problems
 
-This file contains the links to the problems solved in Week 1.
+This file contains the links to the problems solved in Week 2.
 
 1. [Delete from the Left](https://codeforces.com/problemset/problem/1005/B)
 2. [Polycarp's Practice ](https://codeforces.com/problemset/problem/1006/B)
