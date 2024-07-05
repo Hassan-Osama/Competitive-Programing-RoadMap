@@ -19,7 +19,6 @@ This repository aims to help programmers improve their problem-solving skills an
 1. **Navigate to a Week:** Choose a week from the list above.
 2. **Check the Problem Links:** Click on the corresponding week to find the links to the problems in the `README.md` file.
 3. **View the Solutions:** Open the relevant `solution.cpp` files to see the C++ solutions.
-4. **Run the Solutions:** Use the provided solutions to test against sample inputs and outputs.
 
 ## How to Contribute
 
