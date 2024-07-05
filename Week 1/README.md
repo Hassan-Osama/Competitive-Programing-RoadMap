@@ -1,6 +1,6 @@
 # Week 1 Problems
 
-This file contains the links to the problems solved in Week X.
+This file contains the links to the problems solved in Week 1.
 
 1. [Wrong Subtraction](https://codeforces.com/problemset/problem/977/A)
 2. [Remove Duplicates](https://codeforces.com/problemset/problem/978/A)
