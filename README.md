@@ -5,7 +5,7 @@ Welcome to the Competitive Programming Problems and Solutions repository! This r
 ## Table of Contents
 
 1. [Introduction](#introduction)
-2. [Weekly Solutions](#weekly-solutions)
+2. [How to Use](#how-to-use)
 3. [Problem Links](#problem-links)
 4. [How to Contribute](#how-to-contribute)
 
@@ -15,7 +15,7 @@ This repository aims to help programmers improve their problem-solving skills an
 
 ## Weekly Solutions
 
-- [Week 1](./Week 1)
+- [Week 1](./Week-1)
 - [Week 2](./Week2)
 - [Week 3](./Week3)
 - [Week 4](./Week4)
